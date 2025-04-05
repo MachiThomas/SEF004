@@ -9,8 +9,3 @@ void predict() {
     printf("predict\n");
     printf("The first feature is added\n");
 }
-
-
-
-
-
