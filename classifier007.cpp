@@ -3,4 +3,4 @@
 - Inviting another developer.
 - Creating and approving a Pull request.
 - Resolving a merge conflict.
-- And more …# SEF004
+- And more …
